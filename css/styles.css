@@ -5,9 +5,9 @@ h2 {
   text-align: center;
 }
 .container {
+  background: url(../image/chngy.jpeg);
   background-color: black;
-  color: yellow;
-  background: url(../image/download.jpeg);
+  color: cyan;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
