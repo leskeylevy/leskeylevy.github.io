@@ -8,14 +8,18 @@
   white-space: normal;
   float: right;
 }
-.levy-bar .levy-bar-item {
+.levy-bar-item.levy-button {
   padding: 16px 32px;
-  float: left;
+  float: right;
   width: auto;
   border: none;
   display: block;
   outline: 0;
 }
 .display-container{
-  max-width: 1500px;
+  max-width:100%;
+}
+.image {
+  width: 100%;
+  object-fit: contain;
 }
