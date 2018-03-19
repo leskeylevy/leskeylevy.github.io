@@ -1,14 +1,5 @@
-h2 {
-  text-align: center;
-}
-.important {
-  text-align: center;
-}
-.container {
-  background: url(../image/chngy.jpeg);
-  background-color: black;
-  color: cyan;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+img {
+  float: left;
+  perspective: none;
+  image-size:10%;
 }
