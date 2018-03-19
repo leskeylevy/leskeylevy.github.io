@@ -1,6 +1,21 @@
 #name {
   text-align: center;
   font-family: 'Alex Brush', cursive;
-  font-size: 48px;
+  font-size: 32px;
   text-shadow: 4px 4px 4px #aaa;
+}
+.levy-bar .levy-button{
+  white-space: normal;
+  float: right;
+}
+.levy-bar .levy-bar-item {
+  padding: 16px 32px;
+  float: left;
+  width: auto;
+  border: none;
+  display: block;
+  outline: 0;
+}
+.display-container{
+  max-width: 1500px;
 }
