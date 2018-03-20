@@ -32,17 +32,19 @@
   object-fit: contain;
 }
 .about {
-  background-image: url("/home/levy/Documents/moringa-school-projects/portfolio-landing-page/image/smoke.jpg");
+  background-image: url("../image/smoke.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
+  color: white;
 }
 body,html{
   height: 100%;
 }
 .leskey{
-  background-image: url("/home/levy/Documents/moringa-school-projects/portfolio-landing-page/image/markus-spiske-445253-unsplash.jpg");
+  background-image: url("../image/bg-index.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -58,7 +60,7 @@ body,html{
 
 }
 .projects {
-  background-image: url("/home/levy/Documents/moringa-school-projects/portfolio-landing-page/image/luke-besley-538567-unsplash.jpg");
+  background-image: url("../image/luke-besley-538567-unsplash.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -70,7 +72,7 @@ body,html{
   color: yellow;
 }
 .contact {
-  background-image: url("/home/levy/Documents/moringa-school-projects/portfolio-landing-page/image/rawpixel-com-589076-unsplash.jpg");
+  background-image: url("../image/rawpixel-com-589076-unsplash.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
