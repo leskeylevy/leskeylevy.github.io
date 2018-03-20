@@ -31,3 +31,31 @@
   width: 100%;
   object-fit: contain;
 }
+.about {
+  background-image: url("/home/levy/Documents/moringa-school-projects/portfolio-landing-page/image/smoke.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body,html{
+  height: 100%;
+}
+.leskey{
+  background-image: url("/home/levy/Documents/moringa-school-projects/portfolio-landing-page/image/markus-spiske-445253-unsplash.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home {
+  height: 100%;
+}
+#layout {
+  text-align: center;
+  color: cyan;
+  font-size: 140px;
+  padding-top: 20%;
+  font-family: 'Tangerine', cursive;
+
+}
