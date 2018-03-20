@@ -69,3 +69,19 @@ body,html{
   padding-top: 15%;
   color: yellow;
 }
+.contact {
+  background-image: url("/home/levy/Documents/moringa-school-projects/portfolio-landing-page/image/rawpixel-com-589076-unsplash.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contactinfo {
+  color: white;
+  padding-top: 15%;
+  text-align: center;
+}
+#email {
+  font-family: 'Tangerine',cursive;
+  font-size: 80px;
+}
